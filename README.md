@@ -7,8 +7,8 @@
 I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.   
 
 ## 😎 About
-- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning project under the guidance of Prof. Sim Jim Yen, NDHU, Taiwan.
-- 👍 Completed my Summer internship with Verzeo Pvt. Ltd. in Machine Learning Domain.
+- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
+- 👍 Completed my Summer internship with [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
 - 🎤 Community guy who loves being involved in communities and help students grow.
 - 🌱 I love to meet with new people and Travel. Dream country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
 - 🎓 Dream to do MS in Artificial Intelligence at London, [Oxford](https://www.google.com/maps/uv?hl=en&pb=!1s0x4876c6a9ef8c485b%3A0xd2ff1883a001afed!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMxB_cfHwJ3lotHWhTz-QxHk-Qq2QZkrzd_ohqe%3Dw213-h160-k-no!5soxford%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNgD6N2rfvdp1H4DNnnaTSCap2SCHKT7MhcP457&sa=X&ved=2ahUKEwiQx-X09PbqAhUCbn0KHShaD7IQoiowJnoECBoQBg)
