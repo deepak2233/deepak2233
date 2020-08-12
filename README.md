@@ -7,7 +7,7 @@
 I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.   
 
 ## 🧐 About
-- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning projects under the guidance of prof. sim jim yen, NDHU, Taiwan.
+- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning project under the guidance of Prof. Sim Jim Yen, NDHU, Taiwan.
 - 👍 Completed my Summer internship with Verzeo Pvt. Ltd. in Machine Learning Domain.
 - 🎤 Community guy who loves being involved in communities and help students grow.
 - 🌱 I love to meet new people and Travel. Dream country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
@@ -24,7 +24,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 ---
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
 <!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**deepak2233/deepak2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔
 
