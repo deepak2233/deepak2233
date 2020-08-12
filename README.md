@@ -34,7 +34,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 - ⚡ Fun fact: I like to play Cricket 🏏 and Football⚽ and eating food! 
 - 😄 Pronouns: he/his/him
 ---
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
 <!--
 **deepak2233/deepak2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
