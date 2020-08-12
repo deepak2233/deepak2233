@@ -15,15 +15,16 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 - 👯 And Many More...
 
 
-# Skills
+## 💪 Skills
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/HTML/CSS-important" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm" alt="Data Structure and Algorithm" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/HTML/CSS-important" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript (ES6)-brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm-yellow" alt="Data Structure and Algorithm" />
 
 <!-- * C/C++
 * Java SE
 * Python 3
 * JavaScript (ES6)
 * Data Structure and Algorithm -->
+
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
