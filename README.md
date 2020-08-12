@@ -19,7 +19,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/918427059627), But I may be slow to respond✍️✍️.
-- ⚡ Fun fact: I like to play Cricket🏏 and Football⚽ and eating food! 
+- ⚡ Fun fact: I like to play Cricket 🏏 and Football⚽ and eating food! 
 - 😄 Pronouns: he/his/him
 ---
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
