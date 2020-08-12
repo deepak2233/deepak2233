@@ -4,24 +4,25 @@
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Saksham Taneja, Student at 👨‍💻 JECRC University Pursuing BCA.  I am a tech and management enthusiasts, Would love to be a cloud evangelist and see myself as a Product / Program Manager in my later carrier.  
+I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.   
 
 ## 🧐 About
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 😄 I will usually be a part of hackathons as a #Mentor, #Participants and a #Organiser
-- 🔭 I am currently an MSFT Learn Ambassador, [Mozillian](https://mozillians.org/en-US/u/tanejasaksham/), IBM ZAmbassador, Ex-Google DSC Lead and been a part of many communities and programs by a big force
-- 🌱 I love to speak at public events and been a speaker at many events. I organise Workshops, Webinars etc to help student Community
+- 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning projects under the guidance of prof. sim jim yen, NDHU, Taiwan.
+- 👍 Completed my Summer internship with Verzeo Pvt. Ltd. in Machine Learning Domain.
+- 🎤 Community guy who loves being involved in communities and help students grow.
+- 🌱 I love to meet new people and Travel. Dream country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
+- 🎓 Dream to do MS in Artificial Intelligence at London, [Oxford](https://www.google.com/maps/uv?hl=en&pb=!1s0x4876c6a9ef8c485b%3A0xd2ff1883a001afed!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMxB_cfHwJ3lotHWhTz-QxHk-Qq2QZkrzd_ohqe%3Dw213-h160-k-no!5soxford%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNgD6N2rfvdp1H4DNnnaTSCap2SCHKT7MhcP457&sa=X&ved=2ahUKEwiQx-X09PbqAhUCbn0KHShaD7IQoiowJnoECBoQBg)
 - 👯 And Many More...
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/918427059627)
+- ⚡ Fun fact: I like to play Cricket🏏 and Football⚽ and eating food! 
+- 😄 Pronouns: he/his/him
 ---
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
 <!--
 **sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
