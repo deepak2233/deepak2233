@@ -5,7 +5,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
 ---
 ## Hi there 👋,           
-I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.   
+I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.
+---
 
 ## 😎 About
 - 👨🏽‍💻 I’m currently working on a Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
@@ -15,6 +16,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 - 🎓 Dream to do MS in Artificial Intelligence at London, [Oxford](https://www.google.com/maps/uv?hl=en&pb=!1s0x4876c6a9ef8c485b%3A0xd2ff1883a001afed!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMxB_cfHwJ3lotHWhTz-QxHk-Qq2QZkrzd_ohqe%3Dw213-h160-k-no!5soxford%20-%20Google%20Search!15sCgIgAQ&imagekey=!1e10!2sAF1QipNgD6N2rfvdp1H4DNnnaTSCap2SCHKT7MhcP457&sa=X&ved=2ahUKEwiQx-X09PbqAhUCbn0KHShaD7IQoiowJnoECBoQBg)
 - 👯 And Many More...
 <br>
+---
 ## 💪 Skills
 
 <img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/HTML/CSS-important" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript -brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm-yellow" alt="Data Structure and Algorithm" />
