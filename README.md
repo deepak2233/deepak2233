@@ -3,9 +3,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak2233/)](https://www.linkedin.com/in/deepak2233/) 
 [![Gmail Badge](https://img.shields.io/badge/-deepak842705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepak842705@gmail.com)](mailto:deepak842705@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
+
 ---
 ## Hi there 👋,           
 I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.
+
 ---
 
 ## 😎 About
