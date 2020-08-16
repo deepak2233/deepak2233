@@ -22,7 +22,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 
 ## 💪 Skills
 
-<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/HTML/CSS-important" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript -brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm-yellow" alt="Data Structure and Algorithm" />
+<img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> <img src="https://img.shields.io/badge/HTML/CSS-important" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript -brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm-blue" alt="Data Structure and Algorithm" />
 
 <!-- * C/C++
 * Java SE
@@ -39,7 +39,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 - ⚡ Fun fact: I like to play Cricket 🏏 and Football⚽ and eating food! 
 - 😄 Pronouns: he/his/him
 ---
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true)
+![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&hide=[%22issues%22,%22contribs%22]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <!--
 **deepak2233/deepak2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
