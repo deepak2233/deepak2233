@@ -18,7 +18,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 - 🌱 I love to meet with new people and Travel. Dream country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
 - 👯 And Many More...
 
----
+--- 
 
 ## 💪 Skills 
 
