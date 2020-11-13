@@ -13,7 +13,7 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 ## 😎 About
 - 👩🏽‍💻I'm actively looking for a Research Internship in Deep Learning domains.
 - 👨🏽‍💻 I’ve done Research Internship in Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
-- 👍 Completed my Summer internship with [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
+- 👍 Completed my Summer internship at [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
 - 🎤 Community guy who loves being involved in communities and help students grow.
 - 🌱 I love to meet with new people and Travel. Dream country Switzerland, [Zurich](https://www.google.com/search?q=tourism+in+bern&rlz=1C1CHBF_enIN910IN910&sxsrf=ALeKk02g2mSUYqvp8gAkmIS04Zaq34B-2g:1596178176559&tbm=isch&source=iu&ictx=1&fir=lQUu1BPd5YBMjM%252CTaNXoQ4WjjWbIM%252C%252Fm%252F0d6nx&vet=1&usg=AI4_-kRlbl_WyOaD6HjmuyWVblDAvPTdgQ&sa=X&ved=2ahUKEwiLzdiJ8_bqAhXYTX0KHchcDSoQ_B0wF3oECBEQAw&biw=1024&bih=657#imgrc=zF6CIkZ2oDGpOM)
 - 👯 And Many More...
