@@ -5,14 +5,14 @@
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
 
 ---
-## Hi there 👋,           
-I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍💻, Strong in design and integration with intuitive problem-solving skills. Proficient in C++ and Python Language.Passionate about implementing and launching new projects. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experiences. Now I'm exploring my interest in the area of application of Machine Learning and Deep Learning🎯.
+## Hi there 👋,
+I'm Deepak Yadav, Currently Pursuing an Undergraduate in Computer Science, 👨‍💻 and a machine learning and deep learning enthusiast with more than two years of progressive experience in deep learning and machine learning through Projects, Internships, and Course work. Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience. Currently, I'm working on multimodal machine learning techniques(Computer Vision and NLP).
 
 ---
 
 ## 😎 About
-- 👩🏽‍💻I'm actively looking for a Research Internship in Deep Learning domains.
-- 👨🏽‍💻 I’ve done Research Internship in Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
+- 👩🏽‍💻I'm open for a Research colaboration in Machine Learning & Deep Learning domains.
+- 👨🏽‍💻 I’ve completed my Research Internship in Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
 - 👍 Completed my Summer internship at [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
 - 🎤 Community guy who loves being involved in communities and help students grow.
 - 🌱 I love to meet with new people and Travel. 
@@ -23,12 +23,13 @@ I'm Deepak Yadav, Currently Pursuing Undergraduate in Computer Science 👨‍�
 ## 💪 Skills 
 
 <img src="https://img.shields.io/badge/C-lightgrey" alt="C" /> <img src="https://img.shields.io/badge/C++-ff69b4" alt="C++" /> 
-<img src="https://img.shields.io/badge/HTML/CSS-lightgrey" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/JavaScript -brightgreen" alt="JavaScript (ES6)" /> 
-<img src="https://img.shields.io/badge/Data Structure and Algorithm-blue" alt="Data Structure and Algorithm" />
+<img src="https://img.shields.io/badge/HTML/CSS-lightgrey" alt="HTML/CSS" /> <img src="https://img.shields.io/badge/Python 3-informational" alt="Python 3" /> <img src="https://img.shields.io/badge/Machine Learning Algorithm-ff69b4" alt="Machine Learning Algorithm" /> <img src="https://img.shields.io/badge/JavaScript -brightgreen" alt="JavaScript (ES6)" /> <img src="https://img.shields.io/badge/Deep Learning-blue" alt="Deep Learning" /> <img src="https://img.shields.io/badge/Data Structure and Algorithm-blue" alt="Data Structure and Algorithm" />
 
 <!-- * C/C++
 * Java SE
 * Python 3
+* Machine Learning Algorithm
+* Deep Learning
 * JavaScript 
 * Data Structure and Algorithm -->
 ---
