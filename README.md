@@ -6,7 +6,7 @@
 
 ---
 ## Hi there 👋,
-I'm Deepak Yadav, Currently Pursuing an Undergraduate in Computer Science, 👨‍💻 and a machine learning and deep learning enthusiast with more than two years of progressive experience in deep learning and machine learning through Projects, Internships, and Course work. Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience. Currently, I'm working on multimodal machine learning techniques(Computer Vision and NLP).
+I'm Deepak Yadav, a Computer Science Undergraduate Student, 👨‍💻 with more than two years of progressive experience in deep learning and machine learning through Projects, Internships, and Course work. Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience. Currently, I'm working on multimodal machine learning techniques(Computer Vision and NLP).
 
 ---
 
