@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-deepak842705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepak842705@gmail.com)](mailto:deepak842705@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
 
+<img alt="Visitors" src="https://deepak2233.com/ghpvc/?username=deepak2233&style=flat&labelColor=red&logo=github&label=Profile+Views&color=971901"/>
 
 
 ---
