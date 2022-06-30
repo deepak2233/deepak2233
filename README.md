@@ -9,7 +9,9 @@
 
 ---
 ## Hi there 👋,
-I'm Deepak Yadav, a Computer Science Undergraduate Student, 👨‍💻 with more than two years of progressive experience in deep learning and machine learning through Projects, Internships, and Course work. Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Apart from the rigorous course load, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience. Currently, I'm working on multimodal machine learning techniques(Computer Vision and NLP).
+I'm a computer science undergraduate student, 👨‍💻 with more than one year of progressive experience in deep learning and machine learning through Projects, Internships, and Courses work. I have experience to handling large text corpora and working with noisy user-generated content. My past projects have been ​on topics such as Neural machine translation, Sentiment and Hate speech detection for code-mixed languages, and Text Summarization. Apart from this, I've also worked on Computer vision problems such as image classification with domain adaptation and object detection. I am also excited and open to working on any other topic in NLP and CV.
+
+Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Also, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience.
 
 ---
 
