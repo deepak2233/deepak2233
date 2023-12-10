@@ -9,18 +9,18 @@
 
 ---
 ## Hi there 👋,
-I'm a computer science graduate student, 👨‍💻 with more than one year of progressive experience in deep learning and machine learning through Projects, Internships, and Courses work. I have experience to handling large text corpora and working with noisy user-generated content. My past projects have been ​on topics such as Neural machine translation, Sentiment and Hate speech detection for code-mixed languages, and Text Summarization. Apart from this, I've also worked on Computer vision problems such as image classification with domain adaptation and object detection. I am also excited and open to working on any other topic in NLP and CV.
+As a Senior Data Scientist at Bajaj Finserv, I apply my deep learning expertise to solve various computer vision and natural language processing problems, such as object detection, anomaly detection using GAN, image-to-text, radicalisation/sentiment analysis using LLM, and machine translation. I leverage my knowledge of Python, machine learning algorithms, and data science to develop and deploy scalable and robust solutions that enhance the customer experience and business value.
 
-Working on interdisciplinary research projects has equipped me with experience in dealing with open-ended problems and effectively communicating the results to technical and non-technical audiences. Also, I managed several extracurricular activities🏆🎤. Having acquired relevant skills and experience.
+I hold a Postgraduate Degree in Machine Learning and AI from the International Institute of Information Technology Bangalore, and a Bachelor's Degree in Computer Science Engineering from Chandigarh University. I have also earned multiple certifications and honours in artificial intelligence, machine learning, and linear algebra from prestigious institutions and organizations. I am passionate about learning new technologies and exploring innovative applications of deep learning in various domains.
 
 ---
 
 ## 😎 About
-- 👩🏽‍💻I'm open for a Research colaboration in Machine Learning & Deep Learning domains.
-- 👨🏽‍💻 I’ve completed my Research Internship in Machine Learning & Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
+- 👩🏽‍💻I'm open to a Research collaboration in the Machine Learning and Deep Learning domains.
+- 👨🏽‍💻 I’ve completed my Research Internship in Machine Learning and deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
 - 👍 Completed my Summer internship at [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
-- 🎤 Community guy who loves being involved in communities and help students grow.
-- 🌱 I love to meet with new people and Travel. 
+- 🎤 Community guy who loves being involved in communities and helping students grow.
+- 🌱 I love to meet new people and Travel. 
 - 👯 And Many More...
 
 --- 
