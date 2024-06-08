@@ -15,7 +15,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 
 ---
 
-##🧑‍💻 Professional Journey:
+## 🧑‍💻 Professional Journey:
 - **Bajaj Finserv (Senior Data Scientist)**: 
   At Bajaj Finserv, I spearhead the development of cutting-edge AI solutions. I'm working on a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I worked on solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
 - **SONY India Software Center (Senior Machine Learning Engineer)**: 
