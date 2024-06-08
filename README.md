@@ -9,9 +9,19 @@
 
 ---
 ## Hi there 👋,
-As a Senior Data Scientist at Bajaj Finserv, I apply my deep learning expertise to solve various computer vision and natural language processing problems, such as object detection, anomaly detection using GAN, image-to-text, radicalisation/sentiment analysis using LLM, and machine translation. I leverage my knowledge of Python, machine learning algorithms, and data science to develop and deploy scalable and robust solutions that enhance the customer experience and business value.
+As a Senior Data Scientist at Bajaj Finserv, I apply my deep learning expertise to solve various computer vision and natural language processing problems, such as object detection, anomaly detection using GAN, image-to-text, radicalisation/sentiment analysis using LLM, and machine translation. I leverage my Python, machine learning algorithms, and data science knowledge to develop and deploy scalable and robust solutions that enhance the customer experience and business value.
 
 I hold a Postgraduate Degree in Machine Learning and AI from the International Institute of Information Technology Bangalore, and a Bachelor's Degree in Computer Science Engineering from Chandigarh University. I have also earned multiple certifications and honours in artificial intelligence, machine learning, and linear algebra from prestigious institutions and organizations. I am passionate about learning new technologies and exploring innovative applications of deep learning in various domains.
+
+---
+
+### Professional Journey:
+- **Bajaj Finserv (Senior Data Scientist)**: 
+  At Bajaj Finserv, I spearhead the development of cutting-edge AI solutions. I led a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I developed solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
+- **SONY India Software Center (Senior Machine Learning Engineer)**: 
+  At SONY, I developed an end-to-end pose detection pipeline in C++ from Python, utilizing the Pytorch framework for bitwise serialization and ONNX for inference. This project significantly advanced the company's computer vision capabilities.
+- **Stealth Start-up (Data Scientist)**:
+  I researched model drift and anomaly detection for vision data using generative techniques like GAN and VAE. My work included evaluating model performance using statistical methods, developing data visualization pipelines, and performing A/B testing to assess solution effectiveness.
 
 ---
 
