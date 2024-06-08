@@ -16,13 +16,13 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 ---
 
 ## 🧑‍💻 Professional Journey:
-- <u>**Bajaj Finserv (Senior Data Scientist)**</u>: 
+- <b>**Bajaj Finserv (Senior Data Scientist)**</b>: 
   At Bajaj Finserv, I'm working on a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I worked on solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
   
-- <u>**SONY India Software Center (Senior Machine Learning Engineer)**</u>: 
+- <b>**SONY India Software Center (Senior Machine Learning Engineer)**</b>: 
   At SONY, I developed an end-to-end pose detection pipeline in C++ from Python, utilizing the Pytorch framework for bitwise serialization and ONNX for inference. This project significantly advanced the company's computer vision capabilities.
   
-- <u>**Stealth Start-up (Data Scientist)**</u>:
+- <b>**Stealth Start-up (Data Scientist)**</b>:
   I researched model drift and anomaly detection for vision data using generative techniques like GAN and VAE. My work included evaluating model performance using statistical methods, developing data visualization pipelines, and performing A/B testing to assess solution effectiveness.
 
 ---
