@@ -29,7 +29,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 
 ## 😎 About
 - 👩🏽‍💻I'm open to a Research collaboration in the Machine Learning and Deep Learning domains.
-- 👨🏽‍💻 At [INRIA](https://www.inria.fr/fr), France, I delved into a Multimodal Emotion Detection project under the mentorship of [Francoise Bremond](https://www-sop.inria.fr/stars/Francois.Bremond/)
+- 👨🏽‍💻 At [INRIA](https://www.inria.fr/fr), France, I worked on a Multimodal Emotion Detection project under the mentorship of [Francoise Bremond](https://www-sop.inria.fr/stars/Francois.Bremond/)
 - 👨🏽‍💻 I’ve completed my Research Internship in Machine Learning and Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
 - 👍 Completed my Summer internship at [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
 - 🎤 Community guy who loves being involved in communities and helping students grow.
