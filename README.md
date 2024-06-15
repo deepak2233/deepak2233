@@ -16,7 +16,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 ---
 
 ## 🧑‍💻 Professional Journey:
-- <b>**Bajaj Finserv (Senior Data Scientist)**</b>: 
+- ![image](https://github.com/deepak2233/deepak2233/assets/44837205/30c2ff4f-0ecb-4a7b-bc1c-e30c27e5a7bb)<b>**Bajaj Finserv (Senior Data Scientist)**</b>: 
   At Bajaj Finserv, I'm working on a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I worked on solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
   
 - <b>**SONY India Software Center (Senior Machine Learning Engineer)**</b>: 
@@ -29,6 +29,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 
 ## 😎 About
 - 👩🏽‍💻I'm open to a Research collaboration in the Machine Learning and Deep Learning domains.
+- 👨🏽‍💻I have published two research papers in NLP and computer vision under the mentorship of [Prof. Baidya Nath Saha](http://personal.cimat.mx:8181/~baidya.saha/home.html) 
 - 👨🏽‍💻 At [INRIA](https://www.inria.fr/fr), France, I worked on a Multimodal Emotion Detection project under the mentorship of [Francoise Bremond](https://www-sop.inria.fr/stars/Francois.Bremond/)
 - 👨🏽‍💻 I’ve completed my Research Internship in Machine Learning and Deep Learning project under the guidance of [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/), [NDHU](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN), Taiwan.
 - 👍 Completed my Summer internship at [Verzeo Pvt. Ltd](https://verzeo.in/). in Machine Learning Domain.
