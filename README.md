@@ -16,7 +16,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 ---
 
 ## 🧑‍💻 Professional Journey:
-- ![image](https://github.com/deepak2233/deepak2233/assets/44837205/30c2ff4f-0ecb-4a7b-bc1c-e30c27e5a7bb)<b>**Bajaj Finserv (Senior Data Scientist)**</b>: 
+- <b>**Bajaj Finserv (Senior Data Scientist)**</b>: 
   At Bajaj Finserv, I'm working on a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I worked on solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
   
 - <b>**SONY India Software Center (Senior Machine Learning Engineer)**</b>: 
