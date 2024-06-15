@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/deepak842705">
-    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social&logo=twitter" alt="Twitter Follow">
   </a>
   <a href="https://www.linkedin.com/in/deepak2233/">
     <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
