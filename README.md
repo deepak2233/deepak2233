@@ -2,6 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@deepak842705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deepak842705)](https://twitter.com/deepak842705)
 [![Linkedin Badge](https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak2233/)](https://www.linkedin.com/in/deepak2233/) 
 [![Gmail Badge](https://img.shields.io/badge/-deepak842705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepak842705@gmail.com)](mailto:deepak842705@gmail.com)
+[![Google Scholar Badge](https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en)
 [![GitHub followers](https://img.shields.io/github/followers/deepak2233?label=Follow&style=social)](https://github.com/deepak2233/?tab=follow)
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=deepak2233&style=flat&labelColor=red&logo=github&label=Profile+Views&color=971901"/>
