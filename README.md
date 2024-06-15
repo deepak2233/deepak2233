@@ -1,4 +1,4 @@
-## 👱🏻‍♂️Deepak Yadav 💻 
+# 👱🏻‍♂️Deepak Yadav 💻 
 [![Twitter Badge](https://img.shields.io/badge/-@deepak842705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/deepak842705)](https://twitter.com/deepak842705)
 [![Linkedin Badge](https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepak2233/)](https://www.linkedin.com/in/deepak2233/) 
 [![Gmail Badge](https://img.shields.io/badge/-deepak842705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepak842705@gmail.com)](mailto:deepak842705@gmail.com)
@@ -50,7 +50,7 @@ I hold a Postgraduate Degree in Machine Learning and AI from the International I
 * Python 3
 * Machine Learning Algorithm
 * Deep Learning
-* JavaScript 
+* HTML/CSS/JavaScript 
 * Data Structure and Algorithm -->
 ---
 
