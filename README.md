@@ -1,21 +1,17 @@
 # 👱🏻‍♂️Deepak Yadav 💻 
 <!-- Logo and Badges Section -->
 <p align="left">
-  <img src="https://your-logo-url" alt="Deepak Yadav Logo" width="100"/>
-</p>
-
-<p align="left">
   <a href="https://twitter.com/deepak842705">
-    <img src="https://img.shields.io/badge/-@deepak842705-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social&logo=twitter" alt="Twitter Follow">
   </a>
   <a href="https://www.linkedin.com/in/deepak2233/">
-    <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a href="mailto:deepak842705@gmail.com">
-    <img src="https://img.shields.io/badge/-deepak842705@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google_Scholar-skyblue?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar Badge">
+    <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="https://github.com/deepak2233/?tab=follow">
     <img src="https://img.shields.io/github/followers/deepak2233?label=Follow&style=social" alt="GitHub followers">
