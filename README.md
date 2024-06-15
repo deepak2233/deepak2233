@@ -2,7 +2,7 @@
 <!-- Logo and Badges Section -->
 <p align="left">
   <a href="https://twitter.com/deepak842705">
-    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social&logo=twitter" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social" alt="Twitter Follow">
   </a>
   <a href="https://www.linkedin.com/in/deepak2233/">
     <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
@@ -15,7 +15,7 @@
   </a>
   <a href="https://github.com/deepak2233/?tab=follow">
     <img src="https://img.shields.io/github/followers/deepak2233?label=Follow&style=social" alt="GitHub followers">
-  </a> 
+  </a>
 </p>
 
 <!-- End of Logo and Badges Section -->
