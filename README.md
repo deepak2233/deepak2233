@@ -15,7 +15,7 @@
   </a>
   <a href="https://github.com/deepak2233/?tab=follow">
     <img src="https://img.shields.io/github/followers/deepak2233?label=Follow&style=social" alt="GitHub followers">
-  </a>
+  </a> 
 </p>
 
 <!-- End of Logo and Badges Section -->
