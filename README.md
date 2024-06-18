@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a href="mailto:deepak842705@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
