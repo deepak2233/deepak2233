@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
   </a>
   <a href="mailto:deepak842705@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
@@ -27,8 +27,6 @@
 ---
 ## <b>Hi there</b> 👋,
 As a Senior Data Scientist at Bajaj Finserv, I use deep learning to solve various natural language processing (NLP) problems. My work includes improving search results, understanding queries better, and building systems that answer questions. I am currently working on integrating large language models (LLMs) to generate better responses for FAQ chatbots, helping to resolve customer queries more effectively. I also have experience in computer vision, where I work on detecting objects and handling data drift. This involves testing and improving models to perform well with different data. I use Python, machine learning algorithms, and data science techniques to create and deploy scalable and reliable solutions. 
-
-I hold a Postgraduate Degree in Machine Learning and AI from the International Institute of Information Technology Bangalore, and a Bachelor's Degree in Computer Science Engineering from Chandigarh University. I have also earned multiple certifications and honours in artificial intelligence, machine learning, and linear algebra from prestigious institutions and organizations. I am passionate about learning new technologies and exploring innovative applications of deep learning in various domains.
 
 ---
 
