@@ -74,7 +74,6 @@ I also bring strong expertise in computer vision, particularly in object detecti
 ## ⭐ <b>Featured Repositories</b> (Stars show here)
 
 <!-- Replace REPO_NAME with your actual repositories -->
-## ⭐ <b>Featured Repositories</b> (Stars show here)
 
 ![Waste or Garbage Classification](https://github-readme-stats.vercel.app/api/pin/?username=deepak2233&repo=Waste-or-Garbage-Classification-Using-Deep-Learning&theme=tokyonight)
 ![Retail Insights Agent](https://github-readme-stats.vercel.app/api/pin/?username=deepak2233&repo=retail_insights_agent&theme=tokyonight)
