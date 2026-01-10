@@ -1,25 +1,5 @@
 # 👱🏻‍♂️<b>Deepak Yadav</b> 💻 
 
-<!-- Logo and Badges Section -->
-<p align="left">
-  <a href="https://twitter.com/deepak842705">
-    <img src="https://img.shields.io/twitter/follow/deepak842705?style=social" alt="Twitter Follow">
-  </a>
-href="mailto:deepak842705@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/-Google Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar">
-  </a>
-  <a href="https://github.com/deepak2233/?tab=follow">
-    <img src="https://img.shields.io/github/followers/deepak2233?label=Follow&style=social" alt="GitHub followers">
-  </a>
-</p>
-
-<!-- End of Logo and Badges Section -->
-
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=deepak2233&style=flat&labelColor=red&logo=github&label=Profile+Views&color=971901"/>
-
 ---
 ## <b>Hi there</b> 👋,
 I am a Lead Data Scientist at Bajaj Finserv, owning the design and delivery of large-scale, production-grade machine learning systems across search, NLP, and intelligent automation. I lead initiatives focused on search relevance optimization, query understanding, and information retrieval, building end-to-end solutions using Elasticsearch and modern ML architectures.
