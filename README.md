@@ -64,8 +64,6 @@ I also bring strong expertise in computer vision, particularly in object detecti
 
 ## 📈 GitHub Stats
 
-![Deepak's github stats](https://github-readme-stats.vercel.app/api?username=deepak2233&show_icons=true&theme=tokyonight)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepak2233&theme=react-dark)
 
 <!--
