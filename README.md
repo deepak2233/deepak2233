@@ -5,10 +5,7 @@
   <a href="https://twitter.com/deepak842705">
     <img src="https://img.shields.io/twitter/follow/deepak842705?style=social" alt="Twitter Follow">
   </a>
-  <a href="https://www.linkedin.com/in/deepak2233/">
-    <img src="https://img.shields.io/badge/-deepak2233-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin">
-  </a>
-  <a href="mailto:deepak842705@gmail.com">
+href="mailto:deepak842705@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://scholar.google.com/citations?user=cdrnT0MAAAAJ&hl=en">
