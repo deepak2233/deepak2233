@@ -1,16 +1,13 @@
-# 👱🏻‍♂️<b>Deepak Yadav</b> 💻 
+# 👱🏻‍♂️<b>Deepak </b> 💻 
 
 ---
 ## <b>Hi there</b> 👋,
-I am a Lead Data Scientist at Bajaj Finserv, owning the design and delivery of large-scale, production-grade machine learning systems across search, NLP, and intelligent automation. I lead initiatives focused on search relevance optimization, query understanding, and information retrieval, building end-to-end solutions using Elasticsearch and modern ML architectures.
-In my current role, I drive the integration of Large Language Models (LLMs) into enterprise platforms such as FAQ and customer-support systems, improving answer quality, reducing resolution time, and enabling scalable self-service experiences. I am responsible not only for model development, but also for system design, deployment, monitoring, and long-term maintainability.
+
 I also bring strong expertise in computer vision, particularly in object detection, robustness evaluation, and handling data and model drift in real-world production environments. I regularly translate business requirements into technical roadmaps, mentor engineers and data scientists, and ensure that research ideas are converted into reliable, high-impact production systems.
 
 ---
 
-## 🚀 <b>Professional Journey:</b>
-- <b>**Bajaj Finserv (Senior Data Scientist)**</b>:  
-  At Bajaj Finserv, I'm working on a project to optimize the search functionality of Bajaj Mall's e-commerce platform using Elasticsearch, significantly improving search speed and relevance. Additionally, I worked on solutions to enhance the Bajaj Pay App by leveraging techniques such as regex for account aggregation and building an expense manager.
+## 🚀 <b>Professional Journey:</b>.
 
 - <b>**SONY India Software Center (Machine Learning Engineer)**</b>:  
   At SONY, I developed an end-to-end pose detection pipeline in C++ from Python, utilizing the Pytorch framework for bitwise serialization and ONNX for inference. This project significantly advanced the company's computer vision capabilities.
