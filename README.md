@@ -74,7 +74,6 @@ I also have a strong background in **computer vision**, including pose estimatio
 - 📚 Published **two research papers** in **Natural Language Processing and Computer Vision** under the mentorship of [Prof. Baidya Nath Saha](http://personal.cimat.mx:8181/~baidya.saha/home.html).
 - 🇫🇷 Worked at [INRIA, France](https://www.inria.fr/fr) on **Multimodal Emotion Detection** under the mentorship of [Francois Bremond](https://www-sop.inria.fr/stars/Francois.Bremond/).
 - 🇹🇼 Completed a research internship in **Machine Learning and Deep Learning** under [Prof. Sim Jim Yen](http://web.csie.ndhu.edu.tw/sjyen/) at [National Dong Hwa University, Taiwan](https://epage.ndhu.edu.tw/bin/home.php?Lang=EN).
-- 👨‍💻 Completed a Machine Learning internship at **Verzeo Pvt. Ltd.**
 
 ---
 
